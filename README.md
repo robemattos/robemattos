@@ -1,6 +1,6 @@
 ### Hi everybody 👋
 
-Meu nome é Robson Mattos e atualmente eu estudo Análise e Desenvolvimento de Sistemas na Estácio. <br/>Estou em transição de carreira querendo migrar para o Desenvolvimento Web, e escolhi essa área por gostar de construir e idealizar designs modernos e acesseciveis, além de buscar de algo novo e empolgante para aprender e me desafiar.
+Meu nome é Robson Mattos e atualmente eu estudo Análise e Desenvolvimento de Sistemas na Estácio. <br/>Estou em transição de carreira querendo migrar para o Desenvolvimento Web, e escolhi essa área por gostar de construir e idealizar designs modernos e acesseciveis, além de buscar algo novo e empolgante para aprender e me desafiar.
 
 <!--
 **robemattos/robemattos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
